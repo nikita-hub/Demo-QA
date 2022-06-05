@@ -1,0 +1,21 @@
+{
+"name":"Nikita",
+"email":"nikitanautiyal2001@gmail.com",
+"currentAddress":"Vill.shyampur,premnagar,dehradun",
+"permanentAddress":"Vill.shyampur,premnagar,dehradun",
+"errormessage":"Please include an '@' in the email address.'nikita'is missing an '@'.",
+"firstName":"Nikita",
+"lastName":"Nautiyal",
+"emailf":"nikitanautiyal@gmail.com",
+"age":"20",
+"salary":"20000",
+"department":"Automation Testing",
+//forms//
+"firstName2":"Nikita",
+"lastName2":"Nautiyal",
+"email3":"niki2001@gmail.com",
+"mobile":"8449014174",
+"subject":"English",
+"currentAddress2":"premnagar",
+"dateofBirth":"15-02-2001"
+}
